@@ -1,3 +1,3 @@
-# exercicio-c
+# Example "Hello World!" in C
 
-Exemplo Hello word with C
+This is an example of how to write C code to print out "Hello World!".
