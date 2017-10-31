@@ -1,6 +1,3 @@
-# exercicio-c
+# Example "Hello World!" in C
 
-Exemplo Hello word with C
-"# Sistema-Eventos" 
-aprendendo c++
-exercicio c++
+This is an example of how to write C code to print out "Hello World! and how use scanf, printf, declaration variable ".
